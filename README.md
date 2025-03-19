@@ -1,2 +1,3 @@
+# passx-password-manager
 # Auto detect text files and perform LF normalization
 * text=auto
