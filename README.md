@@ -1,3 +1,2 @@
-# passx-password-manager
-# Auto detect text files and perform LF normalization
-* text=auto
+# password-manager
+This is a password manager project
